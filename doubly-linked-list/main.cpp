@@ -5,7 +5,9 @@
 // Project 1: Doubly Linked List
 // Due Date: September 30, 2025, 10:50 AM, Tuesday
 // Name: Ayan Huda
-// Student-ID (Last 4 Digits):
+// Student-ID (Last 4 Digits)
+// Workday ID: 3207 (Last 4 Digits)
+// T-Number: T00703064
 // Description of the Program (2-3 sentences): This program implements a doubly linked list with multiple functions such as adding nodes, removing nodes, displaying the list and much more. 
 // The point of this project is to show the various methods that doubly linked lists can do. 
 // Date Written: 9/25/2025
